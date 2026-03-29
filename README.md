@@ -1,8 +1,12 @@
 <p align="center">
+ 
+</p>
+
   
 </p>
 
-<p align="center"> Hello! My name is Tukamushaba Ruth. I am a new user on GitHub and I am excited to learn from and collaborate with others</p>
+<p align="center"><h1><b><em> Hello! My name is Tukamushaba Ruth </em></b></h1> </p>
+<p align="center"><h2><b> I am a new GitHub user and I am excited to learn and collaborate with others </b></h2></p>
 
   <a href="https://www.linkedin.com/in/ruth-tukamushaba-693600327/" target="_blank">LinkedIn</a> |
   <a href="mailto:ruth.tukamushaba@mysticbridgeconsulting.com">📫 Email</a> |
@@ -19,7 +23,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a life-long student of Information Technology and Cybersecurity, and Iam passionate about imparting the skills I get onto the youth, building real‑world security solutions that solve real world problems. In future, I would love to collaborate with and learn from global experts in  sustainability, ethical impact and governance, and risk management to ensure long-term value, accountability, and compliance.
+I'm a life-long student of Information Technology and Cybersecurity, and Iam passionate about imparting the skills I acquire onto the youth, building real‑world security solutions that solve real world problems. In future, I would love to collaborate with and learn from global experts in  sustainability, ethical impact and governance, and risk management to ensure long-term value, accountability, and compliance.
 
 
 ## 🧰 Tech Stack
