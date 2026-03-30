@@ -38,12 +38,6 @@ I'm a life-long student of Information Technology and Cybersecurity, and Iam pas
 
 
 
-### 📗 Learning
-<p align="start">
-  <img src="https://img.shields.io/badge/c-2C1B47?style=for-the-badge&logo=c&logoColor=2496ED" />
-</p>
-
-
 <p align="start" style="background-color: #1A0F2E; border: none; padding: 20px 0;">
       <br />
       <img src="https://github-readme-stats.vercel.app/api?username=Tukamushaba222&show_icons=true&theme=dark&bg_color=1A0F2E&title_color=BB86FC&text_color=FFFFFF&icon_color=BB86FC&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
